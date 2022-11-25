@@ -10,7 +10,7 @@
 | 3 | [반복문](https://github.com/im-cherry/Kotlin_Algorithm/tree/main/BaekJoon/Step/03%20%EB%B0%98%EB%B3%B5%EB%AC%B8) | :white_check_mark: |
 | 4 | [1차원 배열](https://github.com/im-cherry/Kotlin_Algorithm/tree/main/BaekJoon/Step/04%201%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4) | :white_check_mark: |
 | 5 | 함수 | :white_large_square: |
-| 6 | [문자열]() | :white_check_mark: |
+| 6 | [문자열](https://github.com/im-cherry/Kotlin_Algorithm/tree/main/BaekJoon/Step/06%20%EB%AC%B8%EC%9E%90%EC%97%B4) | :white_check_mark: |
 | 7 | [기본 수학 1]() | :white_check_mark: |
 | 8 | [기본 수학 2]() | :white_check_mark: |
 | 9 | [2차원 배열]() | :white_check_mark: |
