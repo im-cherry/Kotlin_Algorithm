@@ -13,7 +13,7 @@
 | 6 | [문자열](https://github.com/im-cherry/Kotlin_Algorithm/tree/main/BaekJoon/Step/06%20%EB%AC%B8%EC%9E%90%EC%97%B4) | :white_check_mark: |
 | 7 | [기본 수학 1](https://github.com/im-cherry/Kotlin_Algorithm/tree/main/BaekJoon/Step/07%20%EA%B8%B0%EB%B3%B8%20%EC%88%98%ED%95%99%201) | :white_check_mark: |
 | 8 | [기본 수학 2](https://github.com/im-cherry/Kotlin_Algorithm/tree/main/BaekJoon/Step/08%20%EA%B8%B0%EB%B3%B8%20%EC%88%98%ED%95%99%202) | :white_check_mark: |
-| 9 | [2차원 배열]() | :white_check_mark: |
+| 9 | [2차원 배열](https://github.com/im-cherry/Kotlin_Algorithm/tree/main/BaekJoon/Step/09%202%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4) | :white_check_mark: |
 | 10 | 정렬 | :white_large_square: |
 | 11 | 재귀 | :white_large_square: |
 | 12 | 브루트 포스 | :white_large_square: |
