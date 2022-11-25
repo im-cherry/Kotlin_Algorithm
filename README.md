@@ -24,3 +24,12 @@
 <br />
 
 ## 프로그래머스
+
+| 레벨 | 정보 |
+|:----:|:----:|
+| Level 0 | :white_large_square: |
+| Level 1 | :white_large_square: |
+| Level 2 | :white_large_square: |
+| Level 3 | :white_large_square: |
+| Level 4 | :white_large_square: |
+| Level 5 | :white_large_square: |
