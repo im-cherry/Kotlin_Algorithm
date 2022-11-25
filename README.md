@@ -5,7 +5,7 @@
 
 | 단계 | 제목 | 정보 |
 |:----|:----|:----:|
-| 1 | [입출력과 사칙연산]() | :white_check_mark: |
+| 1 | [입출력과 사칙연산](https://github.com/im-cherry/Kotlin_Algorithm/tree/main/BaekJoon/Step/01%20%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0) | :white_check_mark: |
 | 2 | [조건문]() | :white_check_mark: |
 | 3 | [반복문]() | :white_check_mark: |
 | 4 | [1차원 배열]() | :white_check_mark: |
