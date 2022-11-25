@@ -2,7 +2,7 @@
 
 ## 백준
 
-| 단계 | 제목 | 정보 |
+| 단계 | 제목 | 완료 |
 |:----|:----|:----:|
 | 1 | [입출력과 사칙연산](https://github.com/im-cherry/Kotlin_Algorithm/tree/main/BaekJoon/Step/01%20%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0) | :white_check_mark: |
 | 2 | [조건문](https://github.com/im-cherry/Kotlin_Algorithm/tree/main/BaekJoon/Step/02%20%EC%A1%B0%EA%B1%B4%EB%AC%B8) | :white_check_mark: |
@@ -23,7 +23,7 @@
 
 ## 프로그래머스
 
-| 레벨 | 정보 |
+| 레벨 | 완료 |
 |:----:|:----:|
 | Level 0 | :white_large_square: |
 | Level 1 | :white_large_square: |
