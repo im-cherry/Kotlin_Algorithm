@@ -25,7 +25,7 @@
 
 | 레벨 | 완료 |
 |:----:|:----:|
-| [Level 0](https://github.com/im-cherry/Kotlin_Algorithm/tree/main/Programmers/Level%200) | :white_large_square: |
+| [Level 0](https://github.com/im-cherry/Kotlin_Algorithm/tree/main/Programmers/Level%200) | :white_check_mark: |
 | Level 1 | :white_large_square: |
 | Level 2 | :white_large_square: |
 | Level 3 | :white_large_square: |
