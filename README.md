@@ -18,6 +18,7 @@
 | 12 | 브루트 포스 | :white_large_square: |
 | 13 | 집합과 맵 | :white_large_square: |
 | ... | ... | ... |
+| 20 | [스택](https://github.com/im-cherry/Kotlin_Algorithm/tree/main/BaekJoon/Step/20%20%EC%8A%A4%ED%83%9D) | :white_check_mark: |
 
 <br />
 
