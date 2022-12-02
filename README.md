@@ -20,6 +20,8 @@
 | ... | ... | ... |
 | 20 | [스택](https://github.com/im-cherry/Kotlin_Algorithm/tree/main/BaekJoon/Step/20%20%EC%8A%A4%ED%83%9D) | :white_check_mark: |
 | 21 | [큐, 덱](https://github.com/im-cherry/Kotlin_Algorithm/tree/main/BaekJoon/Step/21%20%ED%81%90%2C%20%EB%8D%B1) | :white_check_mark: |
+| ... | ... | ... |
+| 24 | [우선순위 큐](https://github.com/im-cherry/Kotlin_Algorithm/tree/main/BaekJoon/Step/24%20%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%20%ED%81%90) | :white_check_mark: |
 
 <br />
 
