@@ -19,6 +19,7 @@
 | 13 | 집합과 맵 | :white_large_square: |
 | ... | ... | ... |
 | 20 | [스택](https://github.com/im-cherry/Kotlin_Algorithm/tree/main/BaekJoon/Step/20%20%EC%8A%A4%ED%83%9D) | :white_check_mark: |
+| 21 | [큐, 덱](https://github.com/im-cherry/Kotlin_Algorithm/tree/main/BaekJoon/Step/21%20%ED%81%90%2C%20%EB%8D%B1) | :white_check_mark: |
 
 <br />
 
