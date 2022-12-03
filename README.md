@@ -16,7 +16,7 @@
 | 10 | 정렬 | :white_large_square: |
 | 11 | 재귀 | :white_large_square: |
 | 12 | 브루트 포스 | :white_large_square: |
-| 13 | 집합과 맵 | :white_large_square: |
+| 13 | [집합과 맵](https://github.com/im-cherry/Kotlin_Algorithm/tree/main/BaekJoon/Step/13%20%EC%A7%91%ED%95%A9%EA%B3%BC%20%EB%A7%B5) | :white_check_mark: |
 | ... | ... | ... |
 | 20 | [스택](https://github.com/im-cherry/Kotlin_Algorithm/tree/main/BaekJoon/Step/20%20%EC%8A%A4%ED%83%9D) | :white_check_mark: |
 | 21 | [큐, 덱](https://github.com/im-cherry/Kotlin_Algorithm/tree/main/BaekJoon/Step/21%20%ED%81%90%2C%20%EB%8D%B1) | :white_check_mark: |
